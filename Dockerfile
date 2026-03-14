@@ -124,6 +124,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     lsof \
     make \
     nano \
+    neovim \
     openssh-client \
     patch \
     pkg-config \
